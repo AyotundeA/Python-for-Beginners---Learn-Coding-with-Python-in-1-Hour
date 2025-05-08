@@ -1,0 +1,5 @@
+# Exercise 3 - Type Conversation
+first = float("Enter first number: ")
+second = float("Enter second number: ")
+sum = first + second
+print("Sum: " + str(sum))
