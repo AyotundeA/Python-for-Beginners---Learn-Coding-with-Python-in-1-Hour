@@ -1,0 +1,11 @@
+# Exercise 8 - If Statements
+temperature = 15
+if temperature > 30:
+    print("Temperature is high")
+    print("Drink plent of water")
+elif temperature > 20:
+    print("Temperature is fine")
+elif temperature > 10:
+    print("Temperature is low")
+else:
+    print("Temperature is too low")
