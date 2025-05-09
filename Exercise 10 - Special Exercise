@@ -1,4 +1,4 @@
-# Exercise 9 - Special Exercise
+# Exercise 10 - Special Exercise
 weight = int(input("Enter your weight: "))
 unit = input("Enter your unit: ")
 if unit.upper() == "K":
