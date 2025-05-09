@@ -1,0 +1,9 @@
+# Exercise 9 - Special Exercise
+weight = int(input("Enter your weight: "))
+unit = input("Enter your unit: ")
+if unit.upper() == "K":
+    converted = weight / 0.45
+    print("Weight in Lbs: " + str(converted))
+else:
+    converted = weight * 0.45
+    print("Weight in Kgs: " + str(converted))
