@@ -1,0 +1,5 @@
+# Exercise 12 - Lists
+names = ['John', 'Molly', 'Michael', 'Frank']
+print(names[0:2])
+print(names[1:3])
+print (names)
